@@ -1,0 +1,23 @@
+/*reset básico*/
+*{
+	box-sizing: border-box;
+	margin: 0%;
+	padding: 0%;
+}
+
+.card{
+	width: 420px;
+	display: inline-block;
+	text-align: center;
+	border: solid 3px rgb(151, 6, 6);
+}
+.card img{
+	width: 400px;
+	border-radius: 10px;
+}
+.músicas{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
