@@ -1,0 +1,46 @@
+/*importando fonte do google */
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wdth,wght@100.3,100..700&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+@import url('https://fonts.cdnfonts.com/css/stranger-things');
+@import url('https://fonts.cdnfonts.com/css/one-piece');
+*{
+	box-sizing: border-box;
+	margin: 0%;
+	padding: 0%;
+}
+
+h1{
+	font-family: "Rubik Wet Paint", system-ui;
+	font-weight: 400;
+	font-style: normal;''
+	 /*alteras o estilo da fonte*/
+	font-size: 50px;
+}
+p{
+	font-family: "Kalnia Glaze", serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+	  "wdth" 100.3;
+    font-size: 25px; /*altera o tamanha*/
+	font-weight: 600; lighter /*mexe com a espresura da letra*/ /*lighter deixa mais fino a letra*/ /*bold deixa em negrito*/
+}
+h2{
+	font-family: 'Minecraft', sans-serif; 
+	font-size: 60px;
+	text-align: center;
+	color: darkgreen;
+}
+h3{
+	font-family: 'Stranger Things', sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color: darkred;
+}
+h4{
+	font-family: 'One Piece', sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color: rgb(13, 105, 224);
+}
